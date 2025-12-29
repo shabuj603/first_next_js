@@ -32,6 +32,7 @@ export default function Navbar() {
                           <ActiveLink href="/">{link.name}</ActiveLink>
                             
                         })}
+                         <ActiveLink href="/">Home</ActiveLink>
                          <ActiveLink href="/about">About</ActiveLink>
                         <ActiveLink href="/blog">Blog</ActiveLink>
                         <ActiveLink href="/userList">Contact</ActiveLink>
