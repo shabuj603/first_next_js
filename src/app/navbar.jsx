@@ -37,6 +37,7 @@ export default function Navbar() {
                         <ActiveLink href="/blog">Blog</ActiveLink>
                         <ActiveLink href="/userList">Contact</ActiveLink>
                         <ActiveLink href="/wallet">wallet</ActiveLink>
+                        <ActiveLink href="/post">Post</ActiveLink>
                         
                     </div>
 

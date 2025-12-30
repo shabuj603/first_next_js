@@ -6,7 +6,7 @@ export default function WalletLayout({ children }) {
     <div>
         <hr />
         <nav>
-        <Link href="/wallet/deposit">Deposit</Link>||
+        <Link href="/wallet/deposit">Deposit</Link>||   
         <Link href="/withdraw">Withdraw</Link>
         <Link href="/transfer">Transfer</Link>  
     </nav>
