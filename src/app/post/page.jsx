@@ -3,8 +3,7 @@ import Link from "next/link";
 import React from "react";  
 const PostPage = async () => {  
     const posts = await getAllPost();
-    console.log(posts);
-  return (  
+    return (  
     <div>  
       <h1>Post Page</h1>  
       <p>This is the post page content.</p>  
